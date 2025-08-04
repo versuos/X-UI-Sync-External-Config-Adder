@@ -6,6 +6,7 @@ wget https://raw.githubusercontent.com/versuos/v2ray-sub-manager1/main/v2ray-sub
 
 
 2 - Run
+
 chmod +x setup-v2ray-sync.sh
 
 ./setup-v2ray-sync.sh

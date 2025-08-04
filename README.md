@@ -2,11 +2,11 @@
 
 1 - Download Script 
 
-wget https://raw.githubusercontent.com/versuos/v2ray-sub-manager1/main/v2ray-sub-manager.sh
+wget https://raw.githubusercontent.com/versuos/X-UI-Sync-External-Config-Adder/main/v2ray-sync.sh
 
 
 2 - Run
 
-chmod +x setup-v2ray-sync.sh
+chmod +x v2ray-sync.sh
 
-./setup-v2ray-sync.sh
+./v2ray-sync.sh
